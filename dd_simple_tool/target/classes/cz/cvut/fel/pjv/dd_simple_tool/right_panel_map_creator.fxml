@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<VBox fx:id="rightPanel" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="490.0" prefWidth="255.0" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <GridPane fx:id="tabsGrid" prefHeight="120.0" prefWidth="255.0">
+        <columnConstraints>
+            <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+          <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+          <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+        </columnConstraints>
+        <rowConstraints>
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+          <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+        </rowConstraints>
+         <children>
+            <Button fx:id="bootsBut" mnemonicParsing="false" prefHeight="30.0" prefWidth="85.0" text="Boots" GridPane.columnIndex="1" GridPane.rowIndex="2">
+               <font>
+                  <Font name="High Tower Text" size="13.0" />
+               </font>
+            </Button>
+            <Button fx:id="usablesBut" mnemonicParsing="false" prefHeight="30.0" prefWidth="85.0" text="Usables" GridPane.rowIndex="3">
+               <font>
+                  <Font name="High Tower Text" size="13.0" />
+               </font>
+            </Button>
+            <Button fx:id="helmetsBut" mnemonicParsing="false" prefHeight="30.0" prefWidth="85.0" text="Helmets" GridPane.rowIndex="1">
+               <font>
+                  <Font name="High Tower Text" size="13.0" />
+               </font>
+            </Button>
+            <Button fx:id="legginsBut" mnemonicParsing="false" prefHeight="30.0" prefWidth="85.0" text="Leggins" GridPane.columnIndex="1" GridPane.rowIndex="1">
+               <font>
+                  <Font name="High Tower Text" size="13.0" />
+               </font>
+            </Button>
+            <Button fx:id="chestsBut" mnemonicParsing="false" prefHeight="30.0" prefWidth="85.0" text="Chests" GridPane.rowIndex="2">
+               <font>
+                  <Font name="High Tower Text" size="13.0" />
+               </font>
+            </Button>
+            <Button fx:id="junkBut" mnemonicParsing="false" prefHeight="30.0" prefWidth="85.0" text="Junk" GridPane.columnIndex="1" GridPane.rowIndex="3">
+               <font>
+                  <Font name="High Tower Text" size="13.0" />
+               </font>
+            </Button>
+            <Button fx:id="handsBut" mnemonicParsing="false" prefHeight="30.0" prefWidth="85.0" text="Hands" GridPane.columnIndex="2" GridPane.rowIndex="1">
+               <font>
+                  <Font name="High Tower Text" size="13.0" />
+               </font>
+            </Button>
+            <Button fx:id="weaponsBut" mnemonicParsing="false" prefHeight="30.0" prefWidth="85.0" text="Weapons" GridPane.columnIndex="2" GridPane.rowIndex="2">
+               <font>
+                  <Font name="High Tower Text" size="13.0" />
+               </font>
+            </Button>
+            <Button fx:id="terrainBut" mnemonicParsing="false" prefHeight="30.0" prefWidth="85.0" text="Terrain">
+               <font>
+                  <Font name="High Tower Text" size="13.0" />
+               </font>
+            </Button>
+            <Button fx:id="enemiesBut" mnemonicParsing="false" prefHeight="30.0" prefWidth="85.0" text="Enemies" GridPane.columnIndex="1">
+               <font>
+                  <Font name="High Tower Text" size="13.0" />
+               </font>
+            </Button>
+            <Button fx:id="objectsBut" mnemonicParsing="false" prefHeight="30.0" prefWidth="85.0" text="Objects" GridPane.columnIndex="2">
+               <font>
+                  <Font name="High Tower Text" size="13.0" />
+               </font>
+            </Button>
+         </children>
+      </GridPane>
+      <ListView fx:id="listView" prefHeight="370.0" prefWidth="255.0" />
+   </children>
+</VBox>

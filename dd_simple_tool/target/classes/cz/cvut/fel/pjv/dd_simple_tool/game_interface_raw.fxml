@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+
+<BorderPane fx:id="window" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="650.0" prefWidth="1280.0" style="-fx-background-image: url('papyrus.jpg'); -fx-background-repeat: no-repeat; -fx-background-size: cover, auto;" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1">
+    <bottom>
+        <HBox fx:id="bottomPanel" prefHeight="160.0" prefWidth="1280.0" BorderPane.alignment="CENTER" />
+    </bottom>
+    <right>
+        <VBox fx:id="rightPanel" prefHeight="560.0" prefWidth="255.0" BorderPane.alignment="CENTER" />
+    </right>
+    <center>
+        <AnchorPane fx:id="mainPanel" prefHeight="200.0" prefWidth="1000.0" BorderPane.alignment="CENTER" />
+    </center>
+</BorderPane>

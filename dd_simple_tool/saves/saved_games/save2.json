@@ -1,0 +1,91 @@
+{
+  "player1": [
+    {"name": "lolek"},
+    {"class": "Mage"},
+    {"lvl": 7},
+    {"xp": 30},
+    {"energy": 100},
+    {"hp": 100},
+    {"gold": 0},
+    {"maxHp": 1211},
+    {"maxEnergy": 100},
+    {"maxXp": 50},
+    {"resist": 10},
+    {"baseDmg": 163},
+    {"baseMaxHp": 1211},
+    {"equip": [
+      {"Item0": [
+        {"name": "Helmet3"},
+        {"image": "helmet_03.jpg"},
+        {"sellValue": 20},
+        {"tag": "HEAD"},
+        {"class": "Equip"},
+        {"damage": 4},
+        {"healthPoints": 6}
+      ]},
+      {"Item5": [
+        {"name": "Staff7"},
+        {"image": "staff_07.jpg"},
+        {"sellValue": 70},
+        {"tag": "WEAPON"},
+        {"class": "Equip"},
+        {"damage": 35},
+        {"healthPoints": 70}
+      ]}
+    ]},
+    {"inventory": [
+      {"Item2": [
+        {"name": "Sword5"},
+        {"image": "sword_05.jpg"},
+        {"sellValue": 50},
+        {"tag": "WEAPON"},
+        {"class": "Equip"},
+        {"damage": 25},
+        {"healthPoints": 50}
+      ]},
+      {"Item3": [
+        {"name": "Axe7"},
+        {"image": "axe_07.jpg"},
+        {"sellValue": 70},
+        {"tag": "WEAPON"},
+        {"class": "Equip"},
+        {"damage": 35},
+        {"healthPoints": 70}
+      ]}
+    ]}
+  ],
+  "player2": [
+    {"name": "bivoj"},
+    {"class": "Warrior"},
+    {"lvl": 1},
+    {"xp": 0},
+    {"energy": 60},
+    {"hp": 90},
+    {"gold": 50},
+    {"maxHp": 100},
+    {"maxEnergy": 100},
+    {"maxXp": 50},
+    {"resist": 10},
+    {"baseDmg": 15},
+    {"baseMaxHp": 100},
+    {"equip": []},
+    {"inventory": []}
+  ],
+  "player0": [
+    {"name": "bolek"},
+    {"class": "Shaman"},
+    {"lvl": 1},
+    {"xp": 0},
+    {"energy": 100},
+    {"hp": 100},
+    {"gold": 0},
+    {"maxHp": 100},
+    {"maxEnergy": 100},
+    {"maxXp": 50},
+    {"resist": 10},
+    {"baseDmg": 15},
+    {"baseMaxHp": 100},
+    {"equip": []},
+    {"inventory": []}
+  ]
+}

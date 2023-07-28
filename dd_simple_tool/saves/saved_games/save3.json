@@ -1,0 +1,148 @@
+{
+  "player1": [
+    {"name": "Milhaus"},
+    {"class": "Mage"},
+    {"lvl": 1},
+    {"xp": 0},
+    {"energy": 100},
+    {"hp": 100},
+    {"gold": 0},
+    {"maxHp": 100},
+    {"maxEnergy": 100},
+    {"maxXp": 50},
+    {"resist": 10},
+    {"baseDmg": 15},
+    {"baseMaxHp": 100},
+    {"equip": []},
+    {"inventory": []}
+  ],
+  "player2": [
+    {"name": "Zayxon"},
+    {"class": "Hunter"},
+    {"lvl": 1},
+    {"xp": 0},
+    {"energy": 100},
+    {"hp": 100},
+    {"gold": 0},
+    {"maxHp": 100},
+    {"maxEnergy": 100},
+    {"maxXp": 50},
+    {"resist": 10},
+    {"baseDmg": 15},
+    {"baseMaxHp": 100},
+    {"equip": []},
+    {"inventory": []}
+  ],
+  "player0": [
+    {"name": "Morguth"},
+    {"class": "Warrior"},
+    {"lvl": 1},
+    {"xp": 0},
+    {"energy": 100},
+    {"hp": 100},
+    {"gold": 0},
+    {"maxHp": 167},
+    {"maxEnergy": 100},
+    {"maxXp": 50},
+    {"resist": 10},
+    {"baseDmg": 15},
+    {"baseMaxHp": 167},
+    {"equip": [
+      {"Item0": [
+        {"name": "Helmet5"},
+        {"image": "helmet_05.jpg"},
+        {"sellValue": 30},
+        {"tag": "HEAD"},
+        {"class": "Equip"},
+        {"damage": 8},
+        {"healthPoints": 10}
+      ]},
+      {"Item1": [
+        {"name": "Chest1"},
+        {"image": "chest_01.jpg"},
+        {"sellValue": 15},
+        {"tag": "CHEST"},
+        {"class": "Equip"},
+        {"damage": 2},
+        {"healthPoints": 5}
+      ]},
+      {"Item2": [
+        {"name": "Leggings1"},
+        {"image": "legs_01.jpg"},
+        {"sellValue": 10},
+        {"tag": "LEGS"},
+        {"class": "Equip"},
+        {"damage": 0},
+        {"healthPoints": 2}
+      ]},
+      {"Item3": [
+        {"name": "Boots3"},
+        {"image": "boots_04.jpg"},
+        {"sellValue": 20},
+        {"tag": "FEET"},
+        {"class": "Equip"},
+        {"damage": 0},
+        {"healthPoints": 6}
+      ]},
+      {"Item4": [
+        {"name": "Gloves2"},
+        {"image": "hands_02.jpg"},
+        {"sellValue": 15},
+        {"tag": "HAND"},
+        {"class": "Equip"},
+        {"damage": 4},
+        {"healthPoints": 4}
+      ]},
+      {"Item5": [
+        {"name": "Sword4"},
+        {"image": "sword_04.jpg"},
+        {"sellValue": 40},
+        {"tag": "WEAPON"},
+        {"class": "Equip"},
+        {"damage": 20},
+        {"healthPoints": 40}
+      ]}
+    ]},
+    {"inventory": [
+      {"Item0": [
+        {"name": "Eye"},
+        {"image": "junk_eye.jpg"},
+        {"sellValue": 10},
+        {"tag": "JUNK"},
+        {"class": "Item"}
+      ]},
+      {"Item1": [
+        {"name": "Health Potion1"},
+        {"image": "health_potion1.jpg"},
+        {"sellValue": 5},
+        {"tag": "USABLE"},
+        {"class": "HealthPotion"},
+        {"healAmount": 50}
+      ]},
+      {"Item3": [
+        {"name": "Health Potion1"},
+        {"image": "health_potion1.jpg"},
+        {"sellValue": 5},
+        {"tag": "USABLE"},
+        {"class": "HealthPotion"},
+        {"healAmount": 50}
+      ]},
+      {"Item6": [
+        {"name": "Cheese"},
+        {"image": "food_cheese.jpg"},
+        {"sellValue": 5},
+        {"tag": "USABLE"},
+        {"class": "Food"},
+        {"healAmount": 10}
+      ]},
+      {"Item7": [
+        {"name": "Cheese"},
+        {"image": "food_cheese.jpg"},
+        {"sellValue": 5},
+        {"tag": "USABLE"},
+        {"class": "Food"},
+        {"healAmount": 10}
+      ]}
+    ]}
+  ]
+}

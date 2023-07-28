@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.shape.Circle?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="260.0" prefWidth="380.0" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <ListView layoutX="14.0" layoutY="14.0" prefHeight="150.0" prefWidth="150.0" style="-fx-background-color: GREY;" />
+      <Button layoutX="94.0" layoutY="174.0" mnemonicParsing="false" prefHeight="27.0" prefWidth="70.0" text="Add">
+         <font>
+            <Font name="High Tower Text" size="14.0" />
+         </font>
+      </Button>
+      <Button layoutX="14.0" layoutY="213.0" mnemonicParsing="false" prefHeight="27.0" prefWidth="150.0" text="Start game">
+         <font>
+            <Font name="High Tower Text" size="14.0" />
+         </font>
+      </Button>
+      <Circle fill="DODGERBLUE" layoutX="276.0" layoutY="89.0" radius="60.0" stroke="WHITE" strokeType="OUTSIDE" strokeWidth="2.0" />
+      <TextField layoutX="201.0" layoutY="175.0" prefHeight="25.0" prefWidth="150.0" promptText="Enter name:" />
+      <ComboBox layoutX="201.0" layoutY="214.0" prefWidth="150.0" promptText="Class" />
+      <Button layoutX="14.0" layoutY="174.0" mnemonicParsing="false" prefHeight="27.0" prefWidth="70.0" text="Remove">
+         <font>
+            <Font name="High Tower Text" size="14.0" />
+         </font>
+      </Button>
+   </children>
+</AnchorPane>

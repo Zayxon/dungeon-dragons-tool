@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<VBox fx:id="switchPlayersPanel" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="160.0" prefWidth="100.0" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Button fx:id="switchPlayer1But" mnemonicParsing="false" prefHeight="25.0" prefWidth="100.0" text="Player 1">
+         <font>
+            <Font name="High Tower Text" size="13.0" />
+         </font>
+      </Button>
+      <Button fx:id="switchPlayer2But" mnemonicParsing="false" prefHeight="25.0" prefWidth="100.0" text="Player 2">
+         <font>
+            <Font name="High Tower Text" size="13.0" />
+         </font>
+      </Button>
+      <Button fx:id="switchPlayer3But" mnemonicParsing="false" prefHeight="25.0" prefWidth="100.0" text="Player 3">
+         <font>
+            <Font name="High Tower Text" size="13.0" />
+         </font>
+      </Button>
+      <Button fx:id="switchPlayer4But" mnemonicParsing="false" prefHeight="25.0" prefWidth="100.0" text="Player 4">
+         <font>
+            <Font name="High Tower Text" size="13.0" />
+         </font>
+      </Button>
+      <Button fx:id="switchPlayer5But" mnemonicParsing="false" prefHeight="25.0" prefWidth="100.0" text="Player 5">
+         <font>
+            <Font name="High Tower Text" size="13.0" />
+         </font>
+      </Button>
+      <Button fx:id="switchPlayer6But" mnemonicParsing="false" prefHeight="25.0" prefWidth="100.0" text="Player 6">
+         <font>
+            <Font name="High Tower Text" size="13.0" />
+         </font>
+      </Button>
+   </children>
+</VBox>

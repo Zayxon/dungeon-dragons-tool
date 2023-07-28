@@ -1,0 +1,1465 @@
+{
+  "Tile140": [
+    {"name": "Water"},
+    {"description": "Water tile."},
+    {"image": "water1.jpg"},
+    {"layoutX": 706.676729488102},
+    {"layoutY": 408},
+    {"centerX": 790.5664569454437},
+    {"centerY": 442}
+  ],
+  "Tile138": [
+    {"name": "Grass"},
+    {"description": "Grass tile."},
+    {"image": "grass.jpg"},
+    {"layoutX": 588.8972745734183},
+    {"layoutY": 408},
+    {"centerX": 672.78700203076},
+    {"centerY": 442}
+  ],
+  "Tile139": [
+    {"name": "Water"},
+    {"description": "Water tile."},
+    {"image": "water1.jpg"},
+    {"layoutX": 647.78700203076},
+    {"layoutY": 408},
+    {"centerX": 731.6767294881018},
+    {"centerY": 442}
+  ],
+  "Tile81": [
+    {"name": "Grass"},
+    {"description": "Grass tile."},
+    {"image": "grass.jpg"},
+    {"layoutX": 29.444863728670914},
+    {"layoutY": 255},
+    {"centerX": 113.33459118601274},
+    {"centerY": 289}
+  ],
+  "Tile80": [
+    {"name": "Grass"},
+    {"description": "Grass tile."},
+    {"image": "grass.jpg"},
+    {"layoutX": -29.444863728670914},
+    {"layoutY": 255},
+    {"centerX": 54.44486372867091},
+    {"centerY": 289}
+  ],
+  "Tile83": [
+    {"name": "Grass"},
+    {"description": "Grass tile."},
+    {"image": "grass.jpg"},
+    {"layoutX": 147.22431864335456},
+    {"layoutY": 255},
+    {"centerX": 231.11404610069638},
+    {"centerY": 289}
+  ],
+  "Tile130": [
+    {"name": "Grass"},
+    {"description": "Grass tile."},
+    {"image": "grass.jpg"},
+    {"layoutX": 117.77945491468365},
+    {"layoutY": 408},
+    {"centerX": 201.6691823720255},
+    {"centerY": 442}
+  ],
+  "Tile82": [
+    {"name": "Grass"},
+    {"description": "Grass tile."},
+    {"image": "grass.jpg"},
+    {"layoutX": 88.33459118601274},
+    {"layoutY": 255},
+    {"centerX": 172.22431864335456},
+    {"centerY": 289}
+  ],
+  "Tile131": [
+    {"name": "Grass"},
+    {"description": "Grass tile."},
+    {"image": "grass.jpg"},
+    {"layoutX": 176.6691823720255},
+    {"layoutY": 408},
+    {"centerX": 260.5589098293673},
+    {"centerY": 442}
+  ],
+  "Tile85": [
+    {"name": "Mountain"},
+    {"description": "Mountain tile."},
+    {"image": "mountain.jpg"},
+    {"layoutX": 265.00377355803823},
+    {"layoutY": 255},
+    {"centerX": 348.8935010153801},
+    {"centerY": 289}
+  ],
+  "Tile132": [
+    {"name": "Grass"},
+    {"description": "Grass tile."},
+    {"image": "grass.jpg"},
+    {"layoutX": 235.5589098293673},
+    {"layoutY": 408},
+    {"centerX": 319.44863728670913},
+    {"centerY": 442}
+  ],
+  "Tile84": [
+    {"name": "Mountain"},
+    {"description": "Mountain tile."},
+    {"image": "mountain.jpg"},
+    {"layoutX": 206.11404610069638},
+    {"layoutY": 255},
+    {"centerX": 290.00377355803823},
+    {"centerY": 289}
+  ],
+  "Tile133": [
+    {"name": "Grass"},
+    {"description": "Grass tile."},
+    {"image": "grass.jpg"},
+    {"layoutX": 294.44863728670913},
+    {"layoutY": 408},
+    {"centerX": 378.338364744051},
+    {"centerY": 442}
+  ],
+  "Tile87": [
+    {"name": "Bush"},
+    {"description": "Bush tile."},
+    {"image": "bush1.jpg"},
+    {"layoutX": 382.7832284727219},
+    {"layoutY": 255},
+    {"centerX": 466.6729559300637},
+    {"centerY": 289}
+  ],
+  "Tile134": [
+    {"name": "Mountain"},
+    {"description": "Mountain tile."},
+    {"image": "mountain.jpg"},
+    {"layoutX": 353.338364744051},
+    {"layoutY": 408},
+    {"centerX": 437.2280922013928},
+    {"centerY": 442}
+  ],
+  "Tile86": [
+    {"name": "Bush"},
+    {"description": "Bush tile."},
+    {"image": "bush1.jpg"},
+    {"layoutX": 323.8935010153801},
+    {"layoutY": 255},
+    {"centerX": 407.78322847272193},
+    {"centerY": 289}
+  ],
+  "Tile135": [
+    {"name": "Mountain"},
+    {"description": "Mountain tile."},
+    {"image": "mountain.jpg"},
+    {"layoutX": 412.22809220139277},
+    {"layoutY": 408},
+    {"centerX": 496.1178196587346},
+    {"centerY": 442}
+  ],
+  "Tile89": [
+    {"name": "Grass"},
+    {"description": "Grass tile."},
+    {"image": "grass.jpg"},
+    {"layoutX": 500.56268338740557},
+    {"layoutY": 255},
+    {"centerX": 584.4524108447474},
+    {"centerY": 289}
+  ],
+  "Tile136": [
+    {"name": "Grass"},
+    {"description": "Grass tile."},
+    {"image": "grass.jpg"},
+    {"layoutX": 471.1178196587346},
+    {"layoutY": 408},
+    {"centerX": 555.0075471160765},
+    {"centerY": 442}
+  ],
+  "Tile88": [
+    {"name": "Bush"},
+    {"description": "Bush tile."},
+    {"image": "bush1.jpg"},
+    {"layoutX": 441.6729559300637},
+    {"layoutY": 255},
+    {"centerX": 525.5626833874055},
+    {"centerY": 289}
+  ],
+  "Tile137": [
+    {"name": "Grass"},
+    {"description": "Grass tile."},
+    {"image": "grass.jpg"},
+    {"layoutX": 530.0075471160765},
+    {"layoutY": 408},
+    {"centerX": 613.8972745734183},
+    {"centerY": 442}
+  ],
+  "Tile14": [
+    {"name": "Grass"},
+    {"description": "Grass tile."},
+    {"image": "grass.jpg"},
+    {"layoutX": 824.4561844027855},
+    {"layoutY": 0},
+    {"centerX": 908.3459118601273},
+    {"centerY": 34}
+  ],
+  "Tile13": [
+    {"name": "Grass"},
+    {"description": "Grass tile."},
+    {"image": "grass.jpg"},
+    {"layoutX": 765.5664569454437},
+    {"layoutY": 0},
+    {"centerX": 849.4561844027855},
+    {"centerY": 34}
+  ],
+  "Tile16": [
+    {"name": "Grass"},
+    {"description": "Grass tile."},
+    {"image": "grass.jpg"},
+    {"layoutX": -29.444863728670914},
+    {"layoutY": 51},
+    {"centerX": 54.44486372867091},
+    {"centerY": 85}
+  ],
+  "Tile15": [
+    {"name": "Grass"},
+    {"description": "Grass tile."},
+    {"image": "grass.jpg"},
+    {"layoutX": 883.3459118601274},
+    {"layoutY": 0},
+    {"centerX": 967.2356393174692},
+    {"centerY": 34}
+  ],
+  "Tile18": [
+    {"name": "Grass"},
+    {"description": "Grass tile."},
+    {"image": "grass.jpg"},
+    {"layoutX": 88.33459118601274},
+    {"layoutY": 51},
+    {"centerX": 172.22431864335456},
+    {"centerY": 85}
+  ],
+  "Tile17": [
+    {"name": "Grass"},
+    {"description": "Grass tile."},
+    {"image": "grass.jpg"},
+    {"layoutX": 29.444863728670914},
+    {"layoutY": 51},
+    {"centerX": 113.33459118601274},
+    {"centerY": 85}
+  ],
+  "Tile19": [
+    {"name": "Grass"},
+    {"description": "Grass tile."},
+    {"image": "grass.jpg"},
+    {"layoutX": 147.22431864335456},
+    {"layoutY": 51},
+    {"centerX": 231.11404610069638},
+    {"centerY": 85}
+  ],
+  "Tile90": [
+    {"name": "Grass"},
+    {"description": "Grass tile."},
+    {"image": "grass.jpg"},
+    {"layoutX": 559.4524108447473},
+    {"layoutY": 255},
+    {"centerX": 643.3421383020891},
+    {"centerY": 289}
+  ],
+  "Tile92": [
+    {"name": "Grass"},
+    {"description": "Grass tile."},
+    {"image": "grass.jpg"},
+    {"layoutX": 677.231865759431},
+    {"layoutY": 255},
+    {"centerX": 761.1215932167728},
+    {"centerY": 289}
+  ],
+  "Tile91": [
+    {"name": "Grass"},
+    {"description": "Grass tile."},
+    {"image": "grass.jpg"},
+    {"layoutX": 618.3421383020891},
+    {"layoutY": 255},
+    {"centerX": 702.2318657594309},
+    {"centerY": 289}
+  ],
+  "Tile94": [
+    {"name": "Water"},
+    {"description": "Water tile."},
+    {"image": "water1.jpg"},
+    {"layoutX": 795.0113206741146},
+    {"layoutY": 255},
+    {"centerX": 878.9010481314564},
+    {"centerY": 289}
+  ],
+  "Tile141": [
+    {"name": "Water"},
+    {"description": "Water tile."},
+    {"image": "water1.jpg"},
+    {"layoutX": 765.5664569454437},
+    {"layoutY": 408},
+    {"centerX": 849.4561844027855},
+    {"centerY": 442}
+  ],
+  "Tile93": [
+    {"name": "Grass"},
+    {"description": "Grass tile."},
+    {"image": "grass.jpg"},
+    {"layoutX": 736.1215932167728},
+    {"layoutY": 255},
+    {"centerX": 820.0113206741146},
+    {"centerY": 289}
+  ],
+  "Tile142": [
+    {"name": "Water"},
+    {"description": "Water tile."},
+    {"image": "water1.jpg"},
+    {"layoutX": 824.4561844027855},
+    {"layoutY": 408},
+    {"centerX": 908.3459118601273},
+    {"centerY": 442}
+  ],
+  "Tile96": [
+    {"name": "Grass"},
+    {"description": "Grass tile."},
+    {"image": "grass.jpg"},
+    {"layoutX": 0},
+    {"layoutY": 306},
+    {"centerX": 83.88972745734182},
+    {"centerY": 340}
+  ],
+  "Tile143": [
+    {"name": "Water"},
+    {"description": "Water tile."},
+    {"image": "water1.jpg"},
+    {"layoutX": 883.3459118601274},
+    {"layoutY": 408},
+    {"centerX": 967.2356393174692},
+    {"centerY": 442}
+  ],
+  "Tile95": [
+    {"name": "Water"},
+    {"description": "Water tile."},
+    {"image": "water1.jpg"},
+    {"layoutX": 853.9010481314565},
+    {"layoutY": 255},
+    {"centerX": 937.7907755887983},
+    {"centerY": 289}
+  ],
+  "Tile10": [
+    {"name": "Grass"},
+    {"description": "Grass tile."},
+    {"image": "grass.jpg"},
+    {"layoutX": 588.8972745734183},
+    {"layoutY": 0},
+    {"centerX": 672.78700203076},
+    {"centerY": 34}
+  ],
+  "Tile98": [
+    {"name": "Grass"},
+    {"description": "Grass tile."},
+    {"image": "grass.jpg"},
+    {"layoutX": 117.77945491468365},
+    {"layoutY": 306},
+    {"centerX": 201.6691823720255},
+    {"centerY": 340}
+  ],
+  "Tile97": [
+    {"name": "Grass"},
+    {"description": "Grass tile."},
+    {"image": "grass.jpg"},
+    {"layoutX": 58.88972745734183},
+    {"layoutY": 306},
+    {"centerX": 142.77945491468364},
+    {"centerY": 340}
+  ],
+  "Tile12": [
+    {"name": "Grass"},
+    {"description": "Grass tile."},
+    {"image": "grass.jpg"},
+    {"layoutX": 706.676729488102},
+    {"layoutY": 0},
+    {"centerX": 790.5664569454437},
+    {"centerY": 34}
+  ],
+  "Tile11": [
+    {"name": "Grass"},
+    {"description": "Grass tile."},
+    {"image": "grass.jpg"},
+    {"layoutX": 647.78700203076},
+    {"layoutY": 0},
+    {"centerX": 731.6767294881018},
+    {"centerY": 34}
+  ],
+  "Tile99": [
+    {"name": "Grass"},
+    {"description": "Grass tile."},
+    {"image": "grass.jpg"},
+    {"layoutX": 176.6691823720255},
+    {"layoutY": 306},
+    {"centerX": 260.5589098293673},
+    {"centerY": 340}
+  ],
+  "Tile69": [
+    {"name": "Bush"},
+    {"description": "Bush tile."},
+    {"image": "bush1.jpg"},
+    {"layoutX": 294.44863728670913},
+    {"layoutY": 204},
+    {"centerX": 378.338364744051},
+    {"centerY": 238}
+  ],
+  "Tile68": [
+    {"name": "Mountain"},
+    {"description": "Mountain tile."},
+    {"image": "mountain.jpg"},
+    {"layoutX": 235.5589098293673},
+    {"layoutY": 204},
+    {"centerX": 319.44863728670913},
+    {"centerY": 238}
+  ],
+  "Tile116": [
+    {"name": "Grass"},
+    {"description": "Grass tile."},
+    {"image": "grass.jpg"},
+    {"layoutX": 206.11404610069638},
+    {"layoutY": 357},
+    {"centerX": 290.00377355803823},
+    {"centerY": 391}
+  ],
+  "Tile117": [
+    {"name": "Grass"},
+    {"description": "Grass tile."},
+    {"image": "grass.jpg"},
+    {"layoutX": 265.00377355803823},
+    {"layoutY": 357},
+    {"centerX": 348.8935010153801},
+    {"centerY": 391}
+  ],
+  "Tile118": [
+    {"name": "Mountain"},
+    {"description": "Mountain tile."},
+    {"image": "mountain.jpg"},
+    {"layoutX": 323.8935010153801},
+    {"layoutY": 357},
+    {"centerX": 407.78322847272193},
+    {"centerY": 391}
+  ],
+  "Tile119": [
+    {"name": "Bush"},
+    {"description": "Bush tile."},
+    {"image": "bush1.jpg"},
+    {"layoutX": 382.7832284727219},
+    {"layoutY": 357},
+    {"centerX": 466.6729559300637},
+    {"centerY": 391}
+  ],
+  "Tile61": [
+    {"name": "Grass"},
+    {"description": "Grass tile."},
+    {"image": "grass.jpg"},
+    {"layoutX": 736.1215932167728},
+    {"layoutY": 153},
+    {"centerX": 820.0113206741146},
+    {"centerY": 187}
+  ],
+  "Tile60": [
+    {"name": "Grass"},
+    {"description": "Grass tile."},
+    {"image": "grass.jpg"},
+    {"layoutX": 677.231865759431},
+    {"layoutY": 153},
+    {"centerX": 761.1215932167728},
+    {"centerY": 187}
+  ],
+  "Tile63": [
+    {"name": "Water"},
+    {"description": "Water tile."},
+    {"image": "water1.jpg"},
+    {"layoutX": 853.9010481314565},
+    {"layoutY": 153},
+    {"centerX": 937.7907755887983},
+    {"centerY": 187}
+  ],
+  "Tile110": [
+    {"name": "Water"},
+    {"description": "Water tile."},
+    {"image": "water1.jpg"},
+    {"layoutX": 824.4561844027855},
+    {"layoutY": 306},
+    {"centerX": 908.3459118601273},
+    {"centerY": 340}
+  ],
+  "Tile62": [
+    {"name": "Grass"},
+    {"description": "Grass tile."},
+    {"image": "grass.jpg"},
+    {"layoutX": 795.0113206741146},
+    {"layoutY": 153},
+    {"centerX": 878.9010481314564},
+    {"centerY": 187}
+  ],
+  "Tile111": [
+    {"name": "Water"},
+    {"description": "Water tile."},
+    {"image": "water1.jpg"},
+    {"layoutX": 883.3459118601274},
+    {"layoutY": 306},
+    {"centerX": 967.2356393174692},
+    {"centerY": 340}
+  ],
+  "Tile65": [
+    {"name": "Grass"},
+    {"description": "Grass tile."},
+    {"image": "grass.jpg"},
+    {"layoutX": 58.88972745734183},
+    {"layoutY": 204},
+    {"centerX": 142.77945491468364},
+    {"centerY": 238}
+  ],
+  "Tile112": [
+    {"name": "Grass"},
+    {"description": "Grass tile."},
+    {"image": "grass.jpg"},
+    {"layoutX": -29.444863728670914},
+    {"layoutY": 357},
+    {"centerX": 54.44486372867091},
+    {"centerY": 391}
+  ],
+  "Tile64": [
+    {"name": "Grass"},
+    {"description": "Grass tile."},
+    {"image": "grass.jpg"},
+    {"layoutX": 0},
+    {"layoutY": 204},
+    {"centerX": 83.88972745734182},
+    {"centerY": 238}
+  ],
+  "Tile113": [
+    {"name": "Grass"},
+    {"description": "Grass tile."},
+    {"image": "grass.jpg"},
+    {"layoutX": 29.444863728670914},
+    {"layoutY": 357},
+    {"centerX": 113.33459118601274},
+    {"centerY": 391}
+  ],
+  "Tile67": [
+    {"name": "Mountain"},
+    {"description": "Mountain tile."},
+    {"image": "mountain.jpg"},
+    {"layoutX": 176.6691823720255},
+    {"layoutY": 204},
+    {"centerX": 260.5589098293673},
+    {"centerY": 238}
+  ],
+  "Tile114": [
+    {"name": "Grass"},
+    {"description": "Grass tile."},
+    {"image": "grass.jpg"},
+    {"layoutX": 88.33459118601274},
+    {"layoutY": 357},
+    {"centerX": 172.22431864335456},
+    {"centerY": 391}
+  ],
+  "Tile66": [
+    {"name": "Grass"},
+    {"description": "Grass tile."},
+    {"image": "grass.jpg"},
+    {"layoutX": 117.77945491468365},
+    {"layoutY": 204},
+    {"centerX": 201.6691823720255},
+    {"centerY": 238}
+  ],
+  "Tile115": [
+    {"name": "Grass"},
+    {"description": "Grass tile."},
+    {"image": "grass.jpg"},
+    {"layoutX": 147.22431864335456},
+    {"layoutY": 357},
+    {"centerX": 231.11404610069638},
+    {"centerY": 391}
+  ],
+  "Tile79": [
+    {"name": "Water"},
+    {"description": "Water tile."},
+    {"image": "water1.jpg"},
+    {"layoutX": 883.3459118601274},
+    {"layoutY": 204},
+    {"centerX": 967.2356393174692},
+    {"centerY": 238}
+  ],
+  "Tile127": [
+    {"name": "Water"},
+    {"description": "Water tile."},
+    {"image": "water1.jpg"},
+    {"layoutX": 853.9010481314565},
+    {"layoutY": 357},
+    {"centerX": 937.7907755887983},
+    {"centerY": 391}
+  ],
+  "Tile128": [
+    {"name": "Grass"},
+    {"description": "Grass tile."},
+    {"image": "grass.jpg"},
+    {"layoutX": 0},
+    {"layoutY": 408},
+    {"centerX": 83.88972745734182},
+    {"centerY": 442}
+  ],
+  "Tile129": [
+    {"name": "Grass"},
+    {"description": "Grass tile."},
+    {"image": "grass.jpg"},
+    {"layoutX": 58.88972745734183},
+    {"layoutY": 408},
+    {"centerX": 142.77945491468364},
+    {"centerY": 442}
+  ],
+  "Tile70": [
+    {"name": "Bush"},
+    {"description": "Bush tile."},
+    {"image": "bush1.jpg"},
+    {"layoutX": 353.338364744051},
+    {"layoutY": 204},
+    {"centerX": 437.2280922013928},
+    {"centerY": 238}
+  ],
+  "Tile72": [
+    {"name": "Grass"},
+    {"description": "Grass tile."},
+    {"image": "grass.jpg"},
+    {"layoutX": 471.1178196587346},
+    {"layoutY": 204},
+    {"centerX": 555.0075471160765},
+    {"centerY": 238}
+  ],
+  "Tile71": [
+    {"name": "Grass"},
+    {"description": "Grass tile."},
+    {"image": "grass.jpg"},
+    {"layoutX": 412.22809220139277},
+    {"layoutY": 204},
+    {"centerX": 496.1178196587346},
+    {"centerY": 238}
+  ],
+  "Tile120": [
+    {"name": "Grass"},
+    {"description": "Grass tile."},
+    {"image": "grass.jpg"},
+    {"layoutX": 441.6729559300637},
+    {"layoutY": 357},
+    {"centerX": 525.5626833874055},
+    {"centerY": 391}
+  ],
+  "Tile74": [
+    {"name": "Grass"},
+    {"description": "Grass tile."},
+    {"image": "grass.jpg"},
+    {"layoutX": 588.8972745734183},
+    {"layoutY": 204},
+    {"centerX": 672.78700203076},
+    {"centerY": 238}
+  ],
+  "Tile121": [
+    {"name": "Grass"},
+    {"description": "Grass tile."},
+    {"image": "grass.jpg"},
+    {"layoutX": 500.56268338740557},
+    {"layoutY": 357},
+    {"centerX": 584.4524108447474},
+    {"centerY": 391}
+  ],
+  "Tile73": [
+    {"name": "Grass"},
+    {"description": "Grass tile."},
+    {"image": "grass.jpg"},
+    {"layoutX": 530.0075471160765},
+    {"layoutY": 204},
+    {"centerX": 613.8972745734183},
+    {"centerY": 238}
+  ],
+  "Tile122": [
+    {"name": "Grass"},
+    {"description": "Grass tile."},
+    {"image": "grass.jpg"},
+    {"layoutX": 559.4524108447473},
+    {"layoutY": 357},
+    {"centerX": 643.3421383020891},
+    {"centerY": 391}
+  ],
+  "Tile76": [
+    {"name": "Grass"},
+    {"description": "Grass tile."},
+    {"image": "grass.jpg"},
+    {"layoutX": 706.676729488102},
+    {"layoutY": 204},
+    {"centerX": 790.5664569454437},
+    {"centerY": 238}
+  ],
+  "Tile123": [
+    {"name": "Grass"},
+    {"description": "Grass tile."},
+    {"image": "grass.jpg"},
+    {"layoutX": 618.3421383020891},
+    {"layoutY": 357},
+    {"centerX": 702.2318657594309},
+    {"centerY": 391}
+  ],
+  "Tile75": [
+    {"name": "Grass"},
+    {"description": "Grass tile."},
+    {"image": "grass.jpg"},
+    {"layoutX": 647.78700203076},
+    {"layoutY": 204},
+    {"centerX": 731.6767294881018},
+    {"centerY": 238}
+  ],
+  "Tile124": [
+    {"name": "Water"},
+    {"description": "Water tile."},
+    {"image": "water1.jpg"},
+    {"layoutX": 677.231865759431},
+    {"layoutY": 357},
+    {"centerX": 761.1215932167728},
+    {"centerY": 391}
+  ],
+  "Tile78": [
+    {"name": "Water"},
+    {"description": "Water tile."},
+    {"image": "water1.jpg"},
+    {"layoutX": 824.4561844027855},
+    {"layoutY": 204},
+    {"centerX": 908.3459118601273},
+    {"centerY": 238}
+  ],
+  "Tile125": [
+    {"name": "Water"},
+    {"description": "Water tile."},
+    {"image": "water1.jpg"},
+    {"layoutX": 736.1215932167728},
+    {"layoutY": 357},
+    {"centerX": 820.0113206741146},
+    {"centerY": 391}
+  ],
+  "Tile77": [
+    {"name": "Grass"},
+    {"description": "Grass tile."},
+    {"image": "grass.jpg"},
+    {"layoutX": 765.5664569454437},
+    {"layoutY": 204},
+    {"centerX": 849.4561844027855},
+    {"centerY": 238}
+  ],
+  "Tile126": [
+    {"name": "Water"},
+    {"description": "Water tile."},
+    {"image": "water1.jpg"},
+    {"layoutX": 795.0113206741146},
+    {"layoutY": 357},
+    {"centerX": 878.9010481314564},
+    {"centerY": 391}
+  ],
+  "Tile47": [
+    {"name": "Grass"},
+    {"description": "Grass tile."},
+    {"image": "grass.jpg"},
+    {"layoutX": 883.3459118601274},
+    {"layoutY": 102},
+    {"centerX": 967.2356393174692},
+    {"centerY": 136}
+  ],
+  "Tile46": [
+    {"name": "Grass"},
+    {"description": "Grass tile."},
+    {"image": "grass.jpg"},
+    {"layoutX": 824.4561844027855},
+    {"layoutY": 102},
+    {"centerX": 908.3459118601273},
+    {"centerY": 136}
+  ],
+  "Tile49": [
+    {"name": "Grass"},
+    {"description": "Grass tile."},
+    {"image": "grass.jpg"},
+    {"layoutX": 29.444863728670914},
+    {"layoutY": 153},
+    {"centerX": 113.33459118601274},
+    {"centerY": 187}
+  ],
+  "Tile48": [
+    {"name": "Grass"},
+    {"description": "Grass tile."},
+    {"image": "grass.jpg"},
+    {"layoutX": -29.444863728670914},
+    {"layoutY": 153},
+    {"centerX": 54.44486372867091},
+    {"centerY": 187}
+  ],
+  "Tile41": [
+    {"name": "Grass"},
+    {"description": "Grass tile."},
+    {"image": "grass.jpg"},
+    {"layoutX": 530.0075471160765},
+    {"layoutY": 102},
+    {"centerX": 613.8972745734183},
+    {"centerY": 136}
+  ],
+  "Tile40": [
+    {"name": "Grass"},
+    {"description": "Grass tile."},
+    {"image": "grass.jpg"},
+    {"layoutX": 471.1178196587346},
+    {"layoutY": 102},
+    {"centerX": 555.0075471160765},
+    {"centerY": 136}
+  ],
+  "Tile43": [
+    {"name": "Grass"},
+    {"description": "Grass tile."},
+    {"image": "grass.jpg"},
+    {"layoutX": 647.78700203076},
+    {"layoutY": 102},
+    {"centerX": 731.6767294881018},
+    {"centerY": 136}
+  ],
+  "Tile42": [
+    {"name": "Grass"},
+    {"description": "Grass tile."},
+    {"image": "grass.jpg"},
+    {"layoutX": 588.8972745734183},
+    {"layoutY": 102},
+    {"centerX": 672.78700203076},
+    {"centerY": 136}
+  ],
+  "Tile45": [
+    {"name": "Grass"},
+    {"description": "Grass tile."},
+    {"image": "grass.jpg"},
+    {"layoutX": 765.5664569454437},
+    {"layoutY": 102},
+    {"centerX": 849.4561844027855},
+    {"centerY": 136}
+  ],
+  "Tile44": [
+    {"name": "Grass"},
+    {"description": "Grass tile."},
+    {"image": "grass.jpg"},
+    {"layoutX": 706.676729488102},
+    {"layoutY": 102},
+    {"centerX": 790.5664569454437},
+    {"centerY": 136}
+  ],
+  "Tile58": [
+    {"name": "Grass"},
+    {"description": "Grass tile."},
+    {"image": "grass.jpg"},
+    {"layoutX": 559.4524108447473},
+    {"layoutY": 153},
+    {"centerX": 643.3421383020891},
+    {"centerY": 187}
+  ],
+  "CircleObject6": [
+    {"centerX": 584.4524108447474},
+    {"centerY": 391},
+    {"object": [
+      {"name": "Bandit1"},
+      {"description": "Thief, hiding in the woods"},
+      {"image": "bandit_sq1.jpg"},
+      {"class": "Enemy"},
+      {"level": 4},
+      {"hp": 60},
+      {"dmg": 28},
+      {"resist": 15},
+      {"container": []}
+    ]}
+  ],
+  "Tile57": [
+    {"name": "Grass"},
+    {"description": "Grass tile."},
+    {"image": "grass.jpg"},
+    {"layoutX": 500.56268338740557},
+    {"layoutY": 153},
+    {"centerX": 584.4524108447474},
+    {"centerY": 187}
+  ],
+  "CircleObject5": [
+    {"centerX": 555.0075471160765},
+    {"centerY": 442},
+    {"object": [
+      {"name": "Bandit2"},
+      {"description": "Thief, hiding in the woods"},
+      {"image": "bandit_sq2.jpg"},
+      {"class": "Enemy"},
+      {"level": 4},
+      {"hp": 60},
+      {"dmg": 28},
+      {"resist": 15},
+      {"container": []}
+    ]}
+  ],
+  "CircleObject4": [
+    {"centerX": 643.3421383020891},
+    {"centerY": 85},
+    {"object": [
+      {"name": "Bear"},
+      {"description": "Just a common bear"},
+      {"image": "bear.png"},
+      {"class": "Enemy"},
+      {"level": 1},
+      {"hp": 20},
+      {"dmg": 5},
+      {"resist": 20},
+      {"container": []}
+    ]}
+  ],
+  "Tile59": [
+    {"name": "Grass"},
+    {"description": "Grass tile."},
+    {"image": "grass.jpg"},
+    {"layoutX": 618.3421383020891},
+    {"layoutY": 153},
+    {"centerX": 702.2318657594309},
+    {"centerY": 187}
+  ],
+  "CircleObject3": [
+    {"centerX": 584.4524108447474},
+    {"centerY": 85},
+    {"object": [
+      {"name": "Bear"},
+      {"description": "Just a common bear"},
+      {"image": "bear.png"},
+      {"class": "Enemy"},
+      {"level": 1},
+      {"hp": 20},
+      {"dmg": 5},
+      {"resist": 20},
+      {"container": []}
+    ]}
+  ],
+  "CircleObject2": [
+    {"centerX": 496.1178196587346},
+    {"centerY": 238},
+    {"object": [
+      {"name": "Wolf"},
+      {"description": "Angry wolf"},
+      {"image": "wolf.jpg"},
+      {"class": "Enemy"},
+      {"level": 1},
+      {"hp": 15},
+      {"dmg": 7},
+      {"resist": 15},
+      {"container": []}
+    ]}
+  ],
+  "CircleObject1": [
+    {"centerX": 466.6729559300637},
+    {"centerY": 187},
+    {"object": [
+      {"name": "Wolf"},
+      {"description": "Angry wolf"},
+      {"image": "wolf.jpg"},
+      {"class": "Enemy"},
+      {"level": 1},
+      {"hp": 15},
+      {"dmg": 7},
+      {"resist": 15},
+      {"container": []}
+    ]}
+  ],
+  "CircleObject0": [
+    {"centerX": 407.78322847272193},
+    {"centerY": 187},
+    {"object": [
+      {"name": "Wolf"},
+      {"description": "Angry wolf"},
+      {"image": "wolf.jpg"},
+      {"class": "Enemy"},
+      {"level": 5},
+      {"hp": 75},
+      {"dmg": 35},
+      {"resist": 15},
+      {"container": [
+        {"Item0": [
+          {"name": "Wolf hide"},
+          {"image": "junk_wolf_hide.jpg"},
+          {"sellValue": 40},
+          {"tag": "JUNK"},
+          {"class": "Item"}
+        ]},
+        {"Item1": [
+          {"name": "Eye"},
+          {"image": "junk_eye.jpg"},
+          {"sellValue": 10},
+          {"tag": "JUNK"},
+          {"class": "Item"}
+        ]},
+        {"Item2": [
+          {"name": "Ham"},
+          {"image": "food_ham.jpg"},
+          {"sellValue": 10},
+          {"tag": "USABLE"},
+          {"class": "Food"},
+          {"healAmount": 20}
+        ]}
+      ]}
+    ]}
+  ],
+  "CircleObject7": [
+    {"centerX": 525.5626833874055},
+    {"centerY": 391},
+    {"object": [
+      {"name": "Wooden chest"},
+      {"description": "May contain various items..."},
+      {"image": "treasureChest2.jpg"},
+      {"class": "Chest"},
+      {"container": [
+        {"Item0": [
+          {"name": "Helmet1"},
+          {"image": "helmet_01.jpg"},
+          {"sellValue": 10},
+          {"tag": "HEAD"},
+          {"class": "Equip"},
+          {"damage": 0},
+          {"healthPoints": 2}
+        ]},
+        {"Item1": [
+          {"name": "Leggings1"},
+          {"image": "legs_01.jpg"},
+          {"sellValue": 10},
+          {"tag": "LEGS"},
+          {"class": "Equip"},
+          {"damage": 0},
+          {"healthPoints": 2}
+        ]},
+        {"Item2": [
+          {"name": "Sword5"},
+          {"image": "sword_05.jpg"},
+          {"sellValue": 50},
+          {"tag": "WEAPON"},
+          {"class": "Equip"},
+          {"damage": 25},
+          {"healthPoints": 50}
+        ]}
+      ]}
+    ]}
+  ],
+  "Tile105": [
+    {"name": "Grass"},
+    {"description": "Grass tile."},
+    {"image": "grass.jpg"},
+    {"layoutX": 530.0075471160765},
+    {"layoutY": 306},
+    {"centerX": 613.8972745734183},
+    {"centerY": 340}
+  ],
+  "Tile106": [
+    {"name": "Grass"},
+    {"description": "Grass tile."},
+    {"image": "grass.jpg"},
+    {"layoutX": 588.8972745734183},
+    {"layoutY": 306},
+    {"centerX": 672.78700203076},
+    {"centerY": 340}
+  ],
+  "Tile107": [
+    {"name": "Grass"},
+    {"description": "Grass tile."},
+    {"image": "grass.jpg"},
+    {"layoutX": 647.78700203076},
+    {"layoutY": 306},
+    {"centerX": 731.6767294881018},
+    {"centerY": 340}
+  ],
+  "Tile108": [
+    {"name": "Grass"},
+    {"description": "Grass tile."},
+    {"image": "grass.jpg"},
+    {"layoutX": 706.676729488102},
+    {"layoutY": 306},
+    {"centerX": 790.5664569454437},
+    {"centerY": 340}
+  ],
+  "Tile109": [
+    {"name": "Water"},
+    {"description": "Water tile."},
+    {"image": "water1.jpg"},
+    {"layoutX": 765.5664569454437},
+    {"layoutY": 306},
+    {"centerX": 849.4561844027855},
+    {"centerY": 340}
+  ],
+  "Tile50": [
+    {"name": "Grass"},
+    {"description": "Grass tile."},
+    {"image": "grass.jpg"},
+    {"layoutX": 88.33459118601274},
+    {"layoutY": 153},
+    {"centerX": 172.22431864335456},
+    {"centerY": 187}
+  ],
+  "Tile52": [
+    {"name": "Mountain"},
+    {"description": "Mountain tile."},
+    {"image": "mountain.jpg"},
+    {"layoutX": 206.11404610069638},
+    {"layoutY": 153},
+    {"centerX": 290.00377355803823},
+    {"centerY": 187}
+  ],
+  "Tile51": [
+    {"name": "Grass"},
+    {"description": "Grass tile."},
+    {"image": "grass.jpg"},
+    {"layoutX": 147.22431864335456},
+    {"layoutY": 153},
+    {"centerX": 231.11404610069638},
+    {"centerY": 187}
+  ],
+  "Tile100": [
+    {"name": "Mountain"},
+    {"description": "Mountain tile."},
+    {"image": "mountain.jpg"},
+    {"layoutX": 235.5589098293673},
+    {"layoutY": 306},
+    {"centerX": 319.44863728670913},
+    {"centerY": 340}
+  ],
+  "Tile54": [
+    {"name": "Grass"},
+    {"description": "Grass tile."},
+    {"image": "grass.jpg"},
+    {"layoutX": 323.8935010153801},
+    {"layoutY": 153},
+    {"centerX": 407.78322847272193},
+    {"centerY": 187}
+  ],
+  "Tile101": [
+    {"name": "Mountain"},
+    {"description": "Mountain tile."},
+    {"image": "mountain.jpg"},
+    {"layoutX": 294.44863728670913},
+    {"layoutY": 306},
+    {"centerX": 378.338364744051},
+    {"centerY": 340}
+  ],
+  "Tile53": [
+    {"name": "Grass"},
+    {"description": "Grass tile."},
+    {"image": "grass.jpg"},
+    {"layoutX": 265.00377355803823},
+    {"layoutY": 153},
+    {"centerX": 348.8935010153801},
+    {"centerY": 187}
+  ],
+  "Tile102": [
+    {"name": "Bush"},
+    {"description": "Bush tile."},
+    {"image": "bush1.jpg"},
+    {"layoutX": 353.338364744051},
+    {"layoutY": 306},
+    {"centerX": 437.2280922013928},
+    {"centerY": 340}
+  ],
+  "Tile56": [
+    {"name": "Grass"},
+    {"description": "Grass tile."},
+    {"image": "grass.jpg"},
+    {"layoutX": 441.6729559300637},
+    {"layoutY": 153},
+    {"centerX": 525.5626833874055},
+    {"centerY": 187}
+  ],
+  "Tile103": [
+    {"name": "Bush"},
+    {"description": "Bush tile."},
+    {"image": "bush1.jpg"},
+    {"layoutX": 412.22809220139277},
+    {"layoutY": 306},
+    {"centerX": 496.1178196587346},
+    {"centerY": 340}
+  ],
+  "Tile55": [
+    {"name": "Grass"},
+    {"description": "Grass tile."},
+    {"image": "grass.jpg"},
+    {"layoutX": 382.7832284727219},
+    {"layoutY": 153},
+    {"centerX": 466.6729559300637},
+    {"centerY": 187}
+  ],
+  "Tile104": [
+    {"name": "Grass"},
+    {"description": "Grass tile."},
+    {"image": "grass.jpg"},
+    {"layoutX": 471.1178196587346},
+    {"layoutY": 306},
+    {"centerX": 555.0075471160765},
+    {"centerY": 340}
+  ],
+  "Tile25": [
+    {"name": "Grass"},
+    {"description": "Grass tile."},
+    {"image": "grass.jpg"},
+    {"layoutX": 500.56268338740557},
+    {"layoutY": 51},
+    {"centerX": 584.4524108447474},
+    {"centerY": 85}
+  ],
+  "Tile24": [
+    {"name": "Grass"},
+    {"description": "Grass tile."},
+    {"image": "grass.jpg"},
+    {"layoutX": 441.6729559300637},
+    {"layoutY": 51},
+    {"centerX": 525.5626833874055},
+    {"centerY": 85}
+  ],
+  "Tile27": [
+    {"name": "Grass"},
+    {"description": "Grass tile."},
+    {"image": "grass.jpg"},
+    {"layoutX": 618.3421383020891},
+    {"layoutY": 51},
+    {"centerX": 702.2318657594309},
+    {"centerY": 85}
+  ],
+  "Tile26": [
+    {"name": "Grass"},
+    {"description": "Grass tile."},
+    {"image": "grass.jpg"},
+    {"layoutX": 559.4524108447473},
+    {"layoutY": 51},
+    {"centerX": 643.3421383020891},
+    {"centerY": 85}
+  ],
+  "Tile29": [
+    {"name": "Grass"},
+    {"description": "Grass tile."},
+    {"image": "grass.jpg"},
+    {"layoutX": 736.1215932167728},
+    {"layoutY": 51},
+    {"centerX": 820.0113206741146},
+    {"centerY": 85}
+  ],
+  "Tile28": [
+    {"name": "Grass"},
+    {"description": "Grass tile."},
+    {"image": "grass.jpg"},
+    {"layoutX": 677.231865759431},
+    {"layoutY": 51},
+    {"centerX": 761.1215932167728},
+    {"centerY": 85}
+  ],
+  "Tile21": [
+    {"name": "Grass"},
+    {"description": "Grass tile."},
+    {"image": "grass.jpg"},
+    {"layoutX": 265.00377355803823},
+    {"layoutY": 51},
+    {"centerX": 348.8935010153801},
+    {"centerY": 85}
+  ],
+  "Tile20": [
+    {"name": "Grass"},
+    {"description": "Grass tile."},
+    {"image": "grass.jpg"},
+    {"layoutX": 206.11404610069638},
+    {"layoutY": 51},
+    {"centerX": 290.00377355803823},
+    {"centerY": 85}
+  ],
+  "Tile23": [
+    {"name": "Grass"},
+    {"description": "Grass tile."},
+    {"image": "grass.jpg"},
+    {"layoutX": 382.7832284727219},
+    {"layoutY": 51},
+    {"centerX": 466.6729559300637},
+    {"centerY": 85}
+  ],
+  "Tile22": [
+    {"name": "Grass"},
+    {"description": "Grass tile."},
+    {"image": "grass.jpg"},
+    {"layoutX": 323.8935010153801},
+    {"layoutY": 51},
+    {"centerX": 407.78322847272193},
+    {"centerY": 85}
+  ],
+  "Tile36": [
+    {"name": "Grass"},
+    {"description": "Grass tile."},
+    {"image": "grass.jpg"},
+    {"layoutX": 235.5589098293673},
+    {"layoutY": 102},
+    {"centerX": 319.44863728670913},
+    {"centerY": 136}
+  ],
+  "Tile35": [
+    {"name": "Grass"},
+    {"description": "Grass tile."},
+    {"image": "grass.jpg"},
+    {"layoutX": 176.6691823720255},
+    {"layoutY": 102},
+    {"centerX": 260.5589098293673},
+    {"centerY": 136}
+  ],
+  "Tile38": [
+    {"name": "Grass"},
+    {"description": "Grass tile."},
+    {"image": "grass.jpg"},
+    {"layoutX": 353.338364744051},
+    {"layoutY": 102},
+    {"centerX": 437.2280922013928},
+    {"centerY": 136}
+  ],
+  "Tile37": [
+    {"name": "Grass"},
+    {"description": "Grass tile."},
+    {"image": "grass.jpg"},
+    {"layoutX": 294.44863728670913},
+    {"layoutY": 102},
+    {"centerX": 378.338364744051},
+    {"centerY": 136}
+  ],
+  "Tile39": [
+    {"name": "Grass"},
+    {"description": "Grass tile."},
+    {"image": "grass.jpg"},
+    {"layoutX": 412.22809220139277},
+    {"layoutY": 102},
+    {"centerX": 496.1178196587346},
+    {"centerY": 136}
+  ],
+  "Tile1": [
+    {"name": "Grass"},
+    {"description": "Grass tile."},
+    {"image": "grass.jpg"},
+    {"layoutX": 58.88972745734183},
+    {"layoutY": 0},
+    {"centerX": 142.77945491468364},
+    {"centerY": 34}
+  ],
+  "Tile0": [
+    {"name": "Grass"},
+    {"description": "Grass tile."},
+    {"image": "grass.jpg"},
+    {"layoutX": 0},
+    {"layoutY": 0},
+    {"centerX": 83.88972745734182},
+    {"centerY": 34}
+  ],
+  "Tile3": [
+    {"name": "Grass"},
+    {"description": "Grass tile."},
+    {"image": "grass.jpg"},
+    {"layoutX": 176.6691823720255},
+    {"layoutY": 0},
+    {"centerX": 260.5589098293673},
+    {"centerY": 34}
+  ],
+  "Tile2": [
+    {"name": "Grass"},
+    {"description": "Grass tile."},
+    {"image": "grass.jpg"},
+    {"layoutX": 117.77945491468365},
+    {"layoutY": 0},
+    {"centerX": 201.6691823720255},
+    {"centerY": 34}
+  ],
+  "Tile5": [
+    {"name": "Grass"},
+    {"description": "Grass tile."},
+    {"image": "grass.jpg"},
+    {"layoutX": 294.44863728670913},
+    {"layoutY": 0},
+    {"centerX": 378.338364744051},
+    {"centerY": 34}
+  ],
+  "Tile4": [
+    {"name": "Grass"},
+    {"description": "Grass tile."},
+    {"image": "grass.jpg"},
+    {"layoutX": 235.5589098293673},
+    {"layoutY": 0},
+    {"centerX": 319.44863728670913},
+    {"centerY": 34}
+  ],
+  "Tile7": [
+    {"name": "Grass"},
+    {"description": "Grass tile."},
+    {"image": "grass.jpg"},
+    {"layoutX": 412.22809220139277},
+    {"layoutY": 0},
+    {"centerX": 496.1178196587346},
+    {"centerY": 34}
+  ],
+  "Tile6": [
+    {"name": "Grass"},
+    {"description": "Grass tile."},
+    {"image": "grass.jpg"},
+    {"layoutX": 353.338364744051},
+    {"layoutY": 0},
+    {"centerX": 437.2280922013928},
+    {"centerY": 34}
+  ],
+  "Tile9": [
+    {"name": "Grass"},
+    {"description": "Grass tile."},
+    {"image": "grass.jpg"},
+    {"layoutX": 530.0075471160765},
+    {"layoutY": 0},
+    {"centerX": 613.8972745734183},
+    {"centerY": 34}
+  ],
+  "Tile30": [
+    {"name": "Grass"},
+    {"description": "Grass tile."},
+    {"image": "grass.jpg"},
+    {"layoutX": 795.0113206741146},
+    {"layoutY": 51},
+    {"centerX": 878.9010481314564},
+    {"centerY": 85}
+  ],
+  "Tile8": [
+    {"name": "Grass"},
+    {"description": "Grass tile."},
+    {"image": "grass.jpg"},
+    {"layoutX": 471.1178196587346},
+    {"layoutY": 0},
+    {"centerX": 555.0075471160765},
+    {"centerY": 34}
+  ],
+  "Tile32": [
+    {"name": "Grass"},
+    {"description": "Grass tile."},
+    {"image": "grass.jpg"},
+    {"layoutX": 0},
+    {"layoutY": 102},
+    {"centerX": 83.88972745734182},
+    {"centerY": 136}
+  ],
+  "Tile31": [
+    {"name": "Grass"},
+    {"description": "Grass tile."},
+    {"image": "grass.jpg"},
+    {"layoutX": 853.9010481314565},
+    {"layoutY": 51},
+    {"centerX": 937.7907755887983},
+    {"centerY": 85}
+  ],
+  "Tile34": [
+    {"name": "Grass"},
+    {"description": "Grass tile."},
+    {"image": "grass.jpg"},
+    {"layoutX": 117.77945491468365},
+    {"layoutY": 102},
+    {"centerX": 201.6691823720255},
+    {"centerY": 136}
+  ],
+  "Tile33": [
+    {"name": "Grass"},
+    {"description": "Grass tile."},
+    {"image": "grass.jpg"},
+    {"layoutX": 58.88972745734183},
+    {"layoutY": 102},
+    {"centerX": 142.77945491468364},
+    {"centerY": 136}
+  ]
+}

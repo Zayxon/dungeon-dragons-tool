@@ -1,0 +1,239 @@
+{
+  "player1": [
+    {"name": "Lovec"},
+    {"class": "Hunter"},
+    {"lvl": 2},
+    {"xp": 30},
+    {"energy": 100},
+    {"hp": 100},
+    {"gold": 0},
+    {"maxHp": 220},
+    {"maxEnergy": 100},
+    {"maxXp": 50},
+    {"resist": 10},
+    {"baseDmg": 22},
+    {"baseMaxHp": 220},
+    {"equip": [
+      {"Item3": [
+        {"name": "Boots6"},
+        {"image": "boots_07.jpg"},
+        {"sellValue": 35},
+        {"tag": "FEET"},
+        {"class": "Equip"},
+        {"damage": 0},
+        {"healthPoints": 12}
+      ]},
+      {"Item4": [
+        {"name": "Gloves4"},
+        {"image": "hands_04.jpg"},
+        {"sellValue": 25},
+        {"tag": "HAND"},
+        {"class": "Equip"},
+        {"damage": 8},
+        {"healthPoints": 8}
+      ]},
+      {"Item5": [
+        {"name": "Crossbow2"},
+        {"image": "crossbow_02.jpg"},
+        {"sellValue": 50},
+        {"tag": "WEAPON"},
+        {"class": "Equip"},
+        {"damage": 25},
+        {"healthPoints": 50}
+      ]}
+    ]},
+    {"inventory": [
+      {"Item2": [
+        {"name": "Ham"},
+        {"image": "food_ham.jpg"},
+        {"sellValue": 10},
+        {"tag": "USABLE"},
+        {"class": "Food"},
+        {"healAmount": 20}
+      ]},
+      {"Item3": [
+        {"name": "Ham"},
+        {"image": "food_ham.jpg"},
+        {"sellValue": 10},
+        {"tag": "USABLE"},
+        {"class": "Food"},
+        {"healAmount": 20}
+      ]},
+      {"Item6": [
+        {"name": "Ham"},
+        {"image": "food_ham.jpg"},
+        {"sellValue": 10},
+        {"tag": "USABLE"},
+        {"class": "Food"},
+        {"healAmount": 20}
+      ]}
+    ]}
+  ],
+  "player2": [
+    {"name": "Lecitel"},
+    {"class": "Priest"},
+    {"lvl": 1},
+    {"xp": 30},
+    {"energy": 100},
+    {"hp": 100},
+    {"gold": 0},
+    {"maxHp": 160},
+    {"maxEnergy": 100},
+    {"maxXp": 50},
+    {"resist": 10},
+    {"baseDmg": 15},
+    {"baseMaxHp": 160},
+    {"equip": [{"Item5": [
+      {"name": "Staff6"},
+      {"image": "staff_06.jpg"},
+      {"sellValue": 60},
+      {"tag": "WEAPON"},
+      {"class": "Equip"},
+      {"damage": 30},
+      {"healthPoints": 60}
+    ]}]},
+    {"inventory": [
+      {"Item1": [
+        {"name": "Energy Potion2"},
+        {"image": "energy_potion2.jpg"},
+        {"sellValue": 10},
+        {"tag": "USABLE"},
+        {"class": "EnergyPotion"},
+        {"healAmount": 70}
+      ]},
+      {"Item2": [
+        {"name": "Energy Potion2"},
+        {"image": "energy_potion2.jpg"},
+        {"sellValue": 10},
+        {"tag": "USABLE"},
+        {"class": "EnergyPotion"},
+        {"healAmount": 70}
+      ]},
+      {"Item3": [
+        {"name": "Health Potion1"},
+        {"image": "health_potion1.jpg"},
+        {"sellValue": 5},
+        {"tag": "USABLE"},
+        {"class": "HealthPotion"},
+        {"healAmount": 50}
+      ]},
+      {"Item5": [
+        {"name": "Energy Potion2"},
+        {"image": "energy_potion2.jpg"},
+        {"sellValue": 10},
+        {"tag": "USABLE"},
+        {"class": "EnergyPotion"},
+        {"healAmount": 70}
+      ]},
+      {"Item6": [
+        {"name": "Health Potion1"},
+        {"image": "health_potion1.jpg"},
+        {"sellValue": 5},
+        {"tag": "USABLE"},
+        {"class": "HealthPotion"},
+        {"healAmount": 50}
+      ]},
+      {"Item7": [
+        {"name": "Health Potion1"},
+        {"image": "health_potion1.jpg"},
+        {"sellValue": 5},
+        {"tag": "USABLE"},
+        {"class": "HealthPotion"},
+        {"healAmount": 50}
+      ]}
+    ]}
+  ],
+  "player0": [
+    {"name": "Bivoj"},
+    {"class": "Warrior"},
+    {"lvl": 3},
+    {"xp": 19},
+    {"energy": 60},
+    {"hp": 100},
+    {"gold": 0},
+    {"maxHp": 275},
+    {"maxEnergy": 100},
+    {"maxXp": 50},
+    {"resist": 10},
+    {"baseDmg": 33},
+    {"baseMaxHp": 275},
+    {"equip": [
+      {"Item0": [
+        {"name": "Helmet1"},
+        {"image": "helmet_01.jpg"},
+        {"sellValue": 10},
+        {"tag": "HEAD"},
+        {"class": "Equip"},
+        {"damage": 0},
+        {"healthPoints": 2}
+      ]},
+      {"Item1": [
+        {"name": "Chest4"},
+        {"image": "chest_04.jpg"},
+        {"sellValue": 60},
+        {"tag": "CHEST"},
+        {"class": "Equip"},
+        {"damage": 8},
+        {"healthPoints": 20}
+      ]},
+      {"Item3": [
+        {"name": "Boots4"},
+        {"image": "boots_05.jpg"},
+        {"sellValue": 25},
+        {"tag": "FEET"},
+        {"class": "Equip"},
+        {"damage": 0},
+        {"healthPoints": 8}
+      ]},
+      {"Item5": [
+        {"name": "Hammer2"},
+        {"image": "hammer_02.jpg"},
+        {"sellValue": 20},
+        {"tag": "WEAPON"},
+        {"class": "Equip"},
+        {"damage": 10},
+        {"healthPoints": 20}
+      ]}
+    ]},
+    {"inventory": [
+      {"Item0": [
+        {"name": "Eye"},
+        {"image": "junk_eye.jpg"},
+        {"sellValue": 10},
+        {"tag": "JUNK"},
+        {"class": "Item"}
+      ]},
+      {"Item1": [
+        {"name": "Bear hide"},
+        {"image": "junk_bear_hide.jpg"},
+        {"sellValue": 50},
+        {"tag": "JUNK"},
+        {"class": "Item"}
+      ]},
+      {"Item2": [
+        {"name": "Cheese"},
+        {"image": "food_cheese.jpg"},
+        {"sellValue": 5},
+        {"tag": "USABLE"},
+        {"class": "Food"},
+        {"healAmount": 10}
+      ]},
+      {"Item3": [
+        {"name": "Ham"},
+        {"image": "food_ham.jpg"},
+        {"sellValue": 10},
+        {"tag": "USABLE"},
+        {"class": "Food"},
+        {"healAmount": 20}
+      ]},
+      {"Item7": [
+        {"name": "Energy Potion2"},
+        {"image": "energy_potion2.jpg"},
+        {"sellValue": 10},
+        {"tag": "USABLE"},
+        {"class": "EnergyPotion"},
+        {"healAmount": 70}
+      ]}
+    ]}
+  ]
+}
