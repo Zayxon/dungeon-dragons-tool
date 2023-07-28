@@ -1,4 +1,4 @@
-# dungeon-dragons-tool
+# D&D Simple Tool
 My first Java project. Graphical tool for playing the game "Dungeons and Dragons".
 
 **D&D Simple Tool** is an application which makes playing game Dungeons and Dragons easier and more comfortable. It gives the user (dungeon master) the opportunity to create game maps with different terrain, enemies or other interactive objects. These maps can be afterwards used for the real game adventure. Players can fight enemies, find various items and make themselves stronger during their adventure.
